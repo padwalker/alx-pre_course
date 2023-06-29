@@ -1,3 +1,3 @@
 My first readme
 
-#This is ALX SWE Program first git project!
+# This is ALX SWE Program first git project!
